@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>zmt.ico</file>
+        <file>sheet.jpg</file>
+    </qresource>
+</RCC>
